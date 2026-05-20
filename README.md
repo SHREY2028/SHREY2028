@@ -18,7 +18,7 @@ I work with *css* , *JavaScript/TypeScript* and *bootstrap* . solving real world
 - 
   ### *FUN FACTS* 
     . I can play all the sports , pretty good at all of them 😎.
-    . my favorite anime is Vinland saga 
+    . my favorite anime is Vinland saga .
 
     
     "Thanks for dropping in. Feel free to explore the repos — the messy ones are usually where the real fun is."
