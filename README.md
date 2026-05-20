@@ -6,8 +6,8 @@ I work with *css* , *JavaScript/TypeScript* and *bootstrap* . solving real world
 
 
 ## *Tools and tech stack*
- →  Python · JavaScript · TypeScript
- →  css . bootstrap 
+ .  Python · JavaScript · TypeScript
+ .  css . bootstrap 
 
  
 ## What I'm up to
