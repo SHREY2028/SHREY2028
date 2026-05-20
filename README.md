@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hey, I'm Shrey 👋
 
-<!--
-**SHREY2028/SHREY2028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer in the making currently persuing (first year) B.Tech, but I've been building long before college.
 
-Here are some ideas to get you started:
+I work with *css* , *JavaScript/TypeScript* and *bootstrap* . solving real world problems is what droves me to learn new things . 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+*Tools and tech stack*
+ →  Python · JavaScript · TypeScript
+ →  css . bootstrap 
+
+ 
+## What I'm up to
+
+- 🔨 Shipping personal projects that solve real problems
+- 🌍 Contributing to open source — learning by doing, one PR at a time
+- 📚 Deepening my foundations while staying curious
+- 
+  *FUN FACTS* 
+    . I can play all the sports , pretty good at all of them 😎.
+    . my favorite anime is Vinland saga 
+
+    
+    "Thanks for dropping in. Feel free to explore the repos — the messy ones are usually where the real fun is."
