@@ -1,6 +1,6 @@
 # Hey, I'm Shrey 👋
 
-Software engineer in the making currently persuing (first year) B.Tech, but I've been building long before college.
+Software engineer in the making currently persuing (second year) B.Tech, but I've been building long before college.
 
 I work with *css* , *JavaScript/TypeScript* and *bootstrap* . solving real world problems is what droves me to learn new things . 
 
